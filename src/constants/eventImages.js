@@ -1,0 +1,39 @@
+/** Real-world Wikimedia Commons photos for events and galleries */
+export const EVENT_IMAGES = {
+  unGenevaConference:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/United_Nations_Geneva_conference_room.jpg/1280px-United_Nations_Geneva_conference_room.jpg",
+  palexpoExterior:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Palexpo%2C_Le_Grand-Saconnex_%28BL7C0316%29.jpg/1280px-Palexpo%2C_Le_Grand-Saconnex_%28BL7C0316%29.jpg",
+  palexpoExpoHall:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Geneva_International_Motor_Show_2024_GIMS_2024_1X7A2263.jpg/1280px-Geneva_International_Motor_Show_2024_GIMS_2024_1X7A2263.jpg",
+  equipmentExpo:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/India_International_Medical_Equipment_Expo.jpg/1280px-India_International_Medical_Equipment_Expo.jpg",
+  tradeExpoHall:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agribex_2023%2C_Brussels_Expo_hall_5.jpg/1280px-Agribex_2023%2C_Brussels_Expo_hall_5.jpg",
+  biogasPlant:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dry_-_solid-state_anaerobic_digestion_AD_biogas_plant.jpg/1280px-Dry_-_solid-state_anaerobic_digestion_AD_biogas_plant.jpg",
+  biogasDigesters:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gresham_Wastewater_Treatment_Plant_anaerobic_digesters_2025.jpg/1280px-Gresham_Wastewater_Treatment_Plant_anaerobic_digesters_2025.jpg",
+  digesterInterior:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/View_into_anaerobic_digester_%286955945883%29.jpg/1280px-View_into_anaerobic_digester_%286955945883%29.jpg",
+  biogasUpgrader:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Biogasupgrader.jpg/1280px-Biogasupgrader.jpg",
+  gasagBiogas:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GASAG_Biogas_plant_in_Schwedt_%28060%29.jpg/1280px-GASAG_Biogas_plant_in_Schwedt_%28060%29.jpg",
+  labObservationRoom:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ulc_fire_test_observation_room.jpg/1280px-Ulc_fire_test_observation_room.jpg",
+  labDataLogger:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ulc_thermocouple_wires_feeding_into_data_logger.jpg/1280px-Ulc_thermocouple_wires_feeding_into_data_logger.jpg",
+  fireTestTechnician:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Durasteel_4h_ceiling_5.jpg/1280px-Durasteel_4h_ceiling_5.jpg",
+  materialsRecoveryFacility:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Materials_recovery_facility.jpg/1280px-Materials_recovery_facility.jpg",
+  businessConference:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studien-_und_Konferenzzentrum_der_Mannheim_Business_School.jpg/1280px-Studien-_und_Konferenzzentrum_der_Mannheim_Business_School.jpg",
+  leadershipConference:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Singapore_Conference_Hall_interior_%28SCO_Rhapsody_in_Spring%29_20240127_213234.jpg/1280px-Singapore_Conference_Hall_interior_%28SCO_Rhapsody_in_Spring%29_20240127_213234.jpg",
+  wasteProcessingPlant:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Waste_processing_plant_-_geograph.org.uk_-_8064393.jpg/1280px-Waste_processing_plant_-_geograph.org.uk_-_8064393.jpg",
+  sortingConveyor:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Recycling_sorting_conveyor_belts.jpg/1280px-Recycling_sorting_conveyor_belts.jpg",
+};
