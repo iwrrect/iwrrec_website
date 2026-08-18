@@ -21,8 +21,6 @@ export default function LaboratoriesSection({
 }) {
   const previewLabs = [...laboratoryPartners]
     .sort((a, b) => {
-      if (a.slug === "gujarat-metal-lab") return -1;
-      if (b.slug === "gujarat-metal-lab") return 1;
       if (a.featured && !b.featured) return -1;
       if (!a.featured && b.featured) return 1;
       return 0;
